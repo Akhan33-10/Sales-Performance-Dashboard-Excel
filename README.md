@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard Preview](Screenshots/Dashboard1.png)
+![Dashboard Preview](Dashboard1.png)
  ---
 # Restaurant_Sales_Dashboard.xlsx
 Excel dashboard analyzing sales and delivery performance.
