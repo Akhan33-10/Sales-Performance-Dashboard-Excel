@@ -10,7 +10,7 @@ This project is an interactive Excel dashboard analyzing sales, profit, and deli
 
 The dataset used for this project was generated for practice and learning purposes.
 
----
+-
 
 ## 🔹 Key KPIs
 - Total Orders: 200
