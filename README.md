@@ -6,7 +6,7 @@ performance across cities, product categories, and sales channels.
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard1.png)
 
----
+--
 
 ## 🔹 Project Overview
 This project is an interactive Excel dashboard analyzing sales 
