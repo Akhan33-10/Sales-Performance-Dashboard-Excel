@@ -1,54 +1,72 @@
+# Sales_Performance_Dashboard
 
- ---
-# Restaurant_Sales_Dashboard.xlsx
-Excel dashboard analyzing sales and delivery performance.
+Excel dashboard analyzing sales, profit, and regional 
+performance across cities, product categories, and sales channels.
+
+## Dashboard Preview
+![Dashboard Preview](Dashboard1.png)
+
+--
 
 ## 🔹 Project Overview
-This project is an interactive Excel dashboard analyzing sales, profit, and delivery performance across regions, cities, and product categories.
+This project is an interactive Excel dashboard analyzing sales 
+performance, profit trends, and payment behavior across regions, 
+cities, and product categories over a 3-year period (2023–2025).
 
-The dataset used for this project was generated for practice and learning purposes.
+The dataset used for this project was generated for practice 
+and learning purposes.
 
 ---
 
 ## 🔹 Key KPIs
-- Total Orders: 200
-- Net Sales: 17.7M
-- Total Profit: 3.7M
-- Profit Margin: 21%
-- Average Order Value: 88.4K
+- **Total Orders:** 200
+- **Net Sales:** 17.7M
+- **Avg Order Value:** 88.4K
+- **Total Profit:** 3.7M
+- **Profit Margin:** 21%
 
 ---
 
 ## 🔹 Analysis Performed
 
 ### Regional Performance
-- East region generates the highest sales (~4.1M).
-- Sales and profit are closely aligned across regions.
-- Opportunity to expand in high-performing regions.
+- East region leads in sales (~4.1M), followed closely by other regions.
+- Sales and profit margins are consistent across all regions.
+- West region shows potential for growth with lower current sales volume.
 
 ### City-Level Analysis
-- Kolkata is the top revenue-driving city (2.3M).
-- Sales are concentrated in a few key cities.
+- Kolkata is the top revenue-driving city at 2.3M.
+- Bhopal and Patna follow at 1.7M each.
+- Sales are concentrated in Tier-1 and Tier-2 cities.
 
-### Sales Trend (3-Year View)
-- Strong growth observed in 2024.
-- Decline trend visible in 2025.
-- Seasonal spikes identified mid-year.
+### Monthly Sales Trend (2023–2025)
+- Strong growth peak observed in 2024 (37.99%).
+- 2023 started with moderate growth (31.68%).
+- Decline trend visible in 2025 (30.33%).
+- Seasonal spikes identified mid-year (May–July).
 
-### Profit & Margin Analysis
-- Overall profit margin stands at 21%.
-- Heavy discounting in some categories may affect margins.
+### Product Category Performance
+- Fashion drives 64.04% of overall sales and 26.40% of total profit.
+- Electronics and Furniture follow as secondary contributors.
+- Home Appliances show margin optimization opportunity.
 
-### Delivery Performance
-- Return rate above 30% indicates possible quality or fulfillment issues.
-- High in-transit percentage suggests operational inefficiencies.
+### Sales Channel Analysis
+- Online channel accounts for 53% of sales, outperforming Store.
+- Slight gap between online sales and profit share suggests 
+  fulfillment cost impact.
+
+### Payment Mode Distribution
+- UPI leads at 30.95%, followed by Net Banking at 22.33%.
+- Card and Cash payments account for the remaining share.
 
 ---
 
 ## 🔹 Business Insights
-- Regional sales concentration creates dependency risk.
-- Delivery inefficiencies directly impact profitability.
-- Margin optimization opportunity in pricing and discount strategy.
+- Fashion category dependency creates revenue concentration risk.
+- 2025 decline trend requires investigation into pricing or demand shifts.
+- Online channel dominance presents opportunity to optimize delivery costs.
+- UPI adoption indicates a digitally engaged customer base.
+- Tier-2 cities like Kolkata and Bhopal are outperforming expectations.
 
 ---
 
@@ -56,9 +74,11 @@ The dataset used for this project was generated for practice and learning purpos
 - Microsoft Excel
 - Pivot Tables & Charts
 - KPI Cards
-- Data Aggregation & Cleaning
+- Slicers (Date, Region, Category, Sales Channel)
+- Bar Charts, Line Charts, Donut Chart
 
 ---
 
 ## 📌 Note
-This dashboard was created as part of my data analytics learning journey. The dataset was generated for educational and practice purposes.
+This dashboard was created as part of my data analytics learning journey.  
+The dataset was generated for educational and practice purposes.
